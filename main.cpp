@@ -1,22 +1,19 @@
-//	Lab 5-11 : Problem Definition
-//	Make a program that find the prime numbers in the given range.
-//		example) find the prime numbers in the range [1..100]
-//		2, 3, 5, 7, ... , 97
+// 	Print
+//	2 4 6 8 10
+// 	Edit this program
 
 #include <iostream>
 using namespace std;
 
 int main()
 {
-	int begin, end;
-
-	do
-	{
-		cout << "Enter your range [from, to] \n";
-		cin >> begin >> end;
-	} while (begin >= end || begin < 2 || end < 0);
-
+	int 	i;
 	
-	// Complete this code.
+
+	for(i=0; i<10; i++)
+	{
+		cout << i << "\t";
+	}
+	cout << endl;
 	
 }
