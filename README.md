@@ -1,7 +1,8 @@
 
 ## Lab 5-1
 
-### Print the even numbers from 10 to 20
+### Print the numbers from 'begin' to 'end'
+>> 'begin' and 'end' are user input
 
 
 
